@@ -1,0 +1,6 @@
+{
+    "name": "afgj/afgjtheme",
+    "description": "Drupal theme for AfGJ",
+    "type": "drupal-theme",
+    "require": {}
+}
